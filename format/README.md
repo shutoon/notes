@@ -1,12 +1,2 @@
-# 格式
-
-格式主要注重简单和易读性
-
-GitBook约定了下面这些文件的作用：
-
-* [README](format/introduction.md)：书本的介绍
-* [SUMMARY](format/chapters.md)：章节结构
-* [LANGS](format/languages.md)：多语言书籍
-* [GLOSSARY](format/glossary.md)：术语描述的清单
-
-至少需要一个 `README` 和 `SUMMARY` 文件来构建一本书。
+#初学linux
+这是一本有关linux的初学者的书，书中会给出一些学习linux的方法以及我个人学习的过程，以及学习过程中遇到的一些问题和解决的方法，希望自己也能在失败和尝试中不断成长。
